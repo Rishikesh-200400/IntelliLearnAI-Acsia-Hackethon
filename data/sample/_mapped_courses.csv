@@ -1,0 +1,11 @@
+course_id,title,description,provider,category,difficulty_level,duration_hours,cost,rating,url
+C001,Python Basics,Intro to Python programming,,Technical,,10,,,
+C002,Advanced Python,Deep dive into OOPs and modules,,Technical,,12,,,
+C003,Flask Web Apps,Build web apps with Flask,,Technical,,8,,,
+C004,SQL Mastery,Manage and query databases,,Technical,,9,,,
+C005,Kubernetes Essentials,Container orchestration,,Technical,,10,,,
+C006,AWS Cloud Practitioner,Basics of cloud infrastructure,,Technical,,15,,,
+C007,Deep Learning with PyTorch,Neural network modeling,,Technical,,20,,,
+C008,Data Science with Python,Data analysis and visualization,,Technical,,14,,,
+C009,Communication Skills,Improve professional communication,,Soft Skill,,6,,,
+C010,Workplace Compliance,Corporate ethics & policy,,Compliance,,5,,,

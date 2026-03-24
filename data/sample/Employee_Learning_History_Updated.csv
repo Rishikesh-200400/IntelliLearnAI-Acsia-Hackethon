@@ -1,0 +1,21 @@
+enrollment_id,employee_id,course_id,enrollment_date,completion_date,status,score_percent
+L001,Employee 2,C001,2025-01-10,2025-01-15,Completed,92.0
+L002,Employee 2,C002,2025-02-02,2025-02-20,Completed,89.0
+L003,Employee 7,C007,2025-03-01,2025-03-28,Completed,94.0
+L004,Employee 13,C004,2025-04-05,2025-04-10,Completed,85.0
+L005,Employee 13,C008,2025-04-12,2025-04-30,Completed,90.0
+L006,Employee 11,C001,2025-02-01,2025-02-12,Completed,88.0
+L007,Employee 11,C010,2025-02-15,2025-02-17,Completed,100.0
+L008,Employee 16,C006,2025-05-10,2025-05-25,Completed,93.0
+L009,Employee 5,C005,2025-03-12,2025-03-25,Completed,96.0
+L010,Employee 18,C003,2025-04-02,2025-04-15,Completed,87.0
+L011,Employee 18,C004,2025-03-12,2025-03-18,Dropped,45.0
+L012,Employee 15,C007,2025-03-20,2025-04-05,Completed,95.0
+L013,Employee 8,C009,2025-02-18,2025-02-25,Completed,89.0
+L014,Employee 17,C009,2025-03-05,2025-03-10,Dropped,
+L015,Employee 10,C010,2025-02-01,2025-02-04,Completed,98.0
+L016,Employee 3,C002,2025-01-15,2025-01-30,Completed,90.0
+L017,Employee 6,C008,2025-02-05,2025-02-22,Enrolled,
+L018,Employee 14,C005,2025-02-10,2025-02-25,Completed,94.0
+L019,Employee 14,C002,2025-03-01,,Enrolled,
+L020,Employee 19,C004,2025-03-10,2025-03-18,Completed,82.0

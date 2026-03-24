@@ -1,0 +1,11 @@
+course_id,title,description,duration_hours,skill_tags,difficulty,category
+C001,Python Basics,Intro to Python programming,10,"[""Python""]",Beginner,Technical
+C002,Advanced Python,Deep dive into OOPs and modules,12,"[""Python""]",Intermediate,Technical
+C003,Flask Web Apps,Build web apps with Flask,8,"[""Flask"", ""Python""]",Intermediate,Technical
+C004,SQL Mastery,Manage and query databases,9,"[""SQL""]",Beginner,Technical
+C005,Kubernetes Essentials,Container orchestration,10,"[""Kubernetes"", ""Docker""]",Intermediate,Technical
+C006,AWS Cloud Practitioner,Basics of cloud infrastructure,15,"[""AWS""]",Beginner,Technical
+C007,Deep Learning with PyTorch,Neural network modeling,20,"[""PyTorch"", ""Deep Learning""]",Advanced,Technical
+C008,Data Science with Python,Data analysis and visualization,14,"[""Pandas"", ""Numpy""]",Intermediate,Technical
+C009,Communication Skills,Improve professional communication,6,"[""Communication""]",Beginner,Soft Skill
+C010,Workplace Compliance,Corporate ethics & policy,5,"[""Compliance""]",Beginner,Compliance

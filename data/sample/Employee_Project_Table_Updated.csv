@@ -1,0 +1,11 @@
+project_id,employee_id,project_name,role_on_project,applied_skills
+PRJ001,Employee 2,Internal HR Portal,Full Stack Dev,"[""Python"", ""Flask"", ""SQL""]"
+PRJ002,Employee 6,Sales Prediction Model,Data Scientist,"[""Python"", ""Scikit-learn""]"
+PRJ003,Employee 7,Fraud Detection AI,ML Engineer,"[""Python"", ""TensorFlow""]"
+PRJ004,Employee 5,CI/CD Automation,DevOps Engineer,"[""Docker"", ""Kubernetes""]"
+PRJ005,Employee 15,Image Recognition,AI Researcher,"[""Deep Learning"", ""PyTorch""]"
+PRJ006,Employee 14,Microservice Refactor,Tech Lead,"[""Java"", ""Microservices""]"
+PRJ007,Employee 18,Customer Dashboard,Full Stack Dev,"[""React"", ""Node.js"", ""SQL""]"
+PRJ008,Employee 16,Cloud Migration,Cloud Engineer,"[""AWS"", ""Terraform""]"
+PRJ009,Employee 11,Test Automation,QA Engineer,"[""Selenium"", ""Python""]"
+PRJ010,Employee 13,Data Visualization,Data Analyst,"[""Pandas"", ""Matplotlib""]"

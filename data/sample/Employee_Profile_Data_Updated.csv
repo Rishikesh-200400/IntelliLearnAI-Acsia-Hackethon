@@ -1,0 +1,21 @@
+employee_id,name,department,role,current_skills,manager_id
+E001,Employee 1,Engineering,Engineering Manager,"[""Python"", ""Kubernetes"", ""AWS""]",-
+E002,Employee 2,Engineering,Senior Developer,"[""Python"", ""SQL"", ""Flask""]",E001
+E003,Employee 3,Engineering,Backend Developer,"[""Java"", ""Spring Boot""]",E001
+E004,Employee 4,Engineering,Frontend Developer,"[""React"", ""HTML"", ""CSS""]",E001
+E005,Employee 5,Engineering,DevOps Engineer,"[""Docker"", ""Kubernetes""]",E001
+E006,Employee 6,Data Science,Data Scientist,"[""Python"", ""Pandas"", ""Scikit-learn""]",E001
+E007,Employee 7,Data Science,ML Engineer,"[""TensorFlow"", ""Python""]",E006
+E008,Employee 8,HR,HR Executive,"[""Excel"", ""Communication""]",E010
+E009,Employee 9,HR,HR Manager,"[""Recruitment"", ""Compliance""]",-
+E010,Employee 10,HR,Training Coordinator,"[""Compliance"", ""LMS""]",E009
+E011,Employee 11,Engineering,QA Engineer,"[""Selenium"", ""Python""]",E001
+E012,Employee 12,Engineering,Intern,"[""C++"", ""Git""]",E002
+E013,Employee 13,Data Science,Junior Data Analyst,"[""Excel"", ""SQL"", ""Python""]",E006
+E014,Employee 14,Engineering,Tech Lead,"[""Java"", ""Microservices""]",E001
+E015,Employee 15,Data Science,AI Researcher,"[""Deep Learning"", ""PyTorch""]",E006
+E016,Employee 16,Engineering,Cloud Engineer,"[""AWS"", ""Terraform""]",E001
+E017,Employee 17,HR,HR Intern,"[""Excel""]",E008
+E018,Employee 18,Engineering,Full Stack Developer,"[""React"", ""Node.js"", ""SQL""]",E014
+E019,Employee 19,Engineering,Backend Intern,"[""Java"", ""Git""]",E003
+E020,Employee 20,Engineering,Junior QA,"[""Selenium""]",E011

@@ -1,0 +1,11 @@
+role,required_skills,recommended_courses
+Engineering Manager,"[""Kubernetes"", ""AWS"", ""Leadership""]","[""C005"", ""C006""]"
+Senior Developer,"[""Python"", ""SQL"", ""Flask""]","[""C001"", ""C002"", ""C003"", ""C004""]"
+Backend Developer,"[""Java"", ""Spring Boot"", ""SQL""]","[""C002"", ""C004""]"
+Frontend Developer,"[""React"", ""HTML"", ""CSS""]","[""C003""]"
+DevOps Engineer,"[""Docker"", ""Kubernetes""]","[""C005""]"
+Data Scientist,"[""Python"", ""Pandas"", ""ML""]","[""C008"", ""C007""]"
+ML Engineer,"[""TensorFlow"", ""Python""]","[""C007""]"
+AI Researcher,"[""Deep Learning"", ""PyTorch""]","[""C007""]"
+Cloud Engineer,"[""AWS"", ""Terraform""]","[""C006""]"
+QA Engineer,"[""Selenium"", ""Python""]","[""C001"", ""C010""]"

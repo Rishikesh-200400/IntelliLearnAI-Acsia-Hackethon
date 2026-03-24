@@ -1,0 +1,20 @@
+employee_id,reports_to
+Employee 2,Employee 1
+Employee 3,Employee 1
+Employee 4,Employee 1
+Employee 5,Employee 1
+Employee 6,Employee 1
+Employee 7,Employee 6
+Employee 8,Employee 10
+Employee 9,
+Employee 10,Employee 9
+Employee 11,Employee 1
+Employee 12,Employee 2
+Employee 13,Employee 6
+Employee 14,Employee 1
+Employee 15,Employee 6
+Employee 16,Employee 1
+Employee 17,Employee 8
+Employee 18,Employee 14
+Employee 19,Employee 3
+Employee 20,Employee 11
